@@ -17,7 +17,7 @@ dependencies {
     // https://mvnrepository.com/artifact/org.assertj/assertj-core
     testImplementation("org.assertj:assertj-core:3.6.1")
     // https://mvnrepository.com/artifact/io.rest-assured/rest-assured
-    testImplementation("io.rest-assured:rest-assured:3.0.0")
+    testImplementation("io.rest-assured:rest-assured:5.2.0")
 }
 
 tasks.test {
